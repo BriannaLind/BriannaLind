@@ -6,3 +6,11 @@ Links:
 * [Google Scholar](https://scholar.google.com/citations?user=CDO4oLQAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/brianna-lind-95410147/)
 * [Savanna Lab](https://savannalab.nmsu.edu/people/brianna_lind/)
+
+
+- 👋 Hi, I’m @BriannaLind
+- 👀 I’m interested in remote sensing, ecology, savannas, termites, and open science
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to collaborate on open science
+- 📫 How to reach me ...
+
