@@ -6,9 +6,12 @@ Hi my name is Bri (like the cheese)! I am a dryland ecologist with a passion for
 * [Google Scholar](https://scholar.google.com/citations?user=CDO4oLQAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/brianna-lind-95410147/)
 * [Savanna Lab](https://savannalab.nmsu.edu/people/brianna_lind/)
+* GitHub
 
 **Educational Background**
+
 **Experience**
+
 **Fun things about me**
 
 
